@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jai_sapnendra" target="blank"><img src="https://img.shields.io/twitter/follow/jai_sapnendra?logo=twitter&style=for-the-badge" alt="jai_sapnendra" /></a> </p>
 
-- 🔭 I’m currently working on [recipe website](https://github.com/jai-sapnendra/Portfolio)
+- 🔭 I’m currently working on [recipe website](https://github.com/jai-sapnendra)
 
 - 🌱 I’m currently learning **Data structure and Algorithm, MERN stack.**
 
-- 👯 I’m looking to collaborate on [Open source](https://github.com/jai-sapnendra/TeamMate-Project)
+- 👯 I’m looking to collaborate on [Open source](https://github.com/jai-sapnendra)
 
 - 🤝 I’m looking for help with [Your on going project](https://github.com/jai-sapnendra/facebook-login-page)
 
@@ -20,8 +20,6 @@
 - 💬 Ask me about **MERN stack, Data Structures and Algorithm.**
 
 - 📫 How to reach me **sapnendrajaiswal2388@gmail.com**
-
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/0a5a3920-440e-11ee-a7b0-b12dde037527](https://novoresume.com/editor/resume/0a5a3920-440e-11ee-a7b0-b12dde037527)
 
 - ⚡ Fun fact **I'm always thinking about Technology and surfing internet for new tech.**
 

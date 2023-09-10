@@ -11,19 +11,19 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithm, MERN stack.**
 
-- 👯 I’m looking to collaborate on [Open source contribution](https://github.com/jai-sapnendra/TeamMate-Project)
+- 👯 I’m looking to collaborate on [Open source](https://github.com/jai-sapnendra/TeamMate-Project)
 
 - 🤝 I’m looking for help with [Your on going project](https://github.com/jai-sapnendra/facebook-login-page)
 
-- 👨‍💻 All of my projects are available at [https://github.com/jai-sapnendra/Portfolio](https://github.com/jai-sapnendra/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/jai-sapnendra](https://github.com/jai-sapnendra)
 
-- 💬 Ask me about **MERN stack and Data structures.**
+- 💬 Ask me about **MERN stack, Data Structures and Algorithm.**
 
 - 📫 How to reach me **sapnendrajaiswal2388@gmail.com**
 
 - 📄 Know about my experiences [https://novoresume.com/editor/resume/0a5a3920-440e-11ee-a7b0-b12dde037527](https://novoresume.com/editor/resume/0a5a3920-440e-11ee-a7b0-b12dde037527)
 
-- ⚡ Fun fact **I think I always surfing internet, for finding something new Tech.**
+- ⚡ Fun fact **I'm always thinking about Technology and surfing internet for new tech.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

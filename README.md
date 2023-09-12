@@ -28,7 +28,6 @@
 <a href="https://twitter.com/jai_sapnendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jai_sapnendra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jai-sapnendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai-sapnendra" height="30" width="40" /></a>
 <a href="https://instagram.com/jai_sapnendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jai_sapnendra" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/jai-sapnendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jai-sapnendra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sapnendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sapnendra" height="30" width="40" /></a>
 </p>

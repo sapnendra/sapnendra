@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Me <br> Sapnendra Jaiswal</h1>
-<h3 align="center">A passionate to make Efficient algorithm and MERN developer from India.</h3>
+<h3 align="center">Passionate for making Efficient algorithms and MERN developer from India.</h3>
 <!-- <img align="right" height="200px" alt="Coding" width="1080px" src="https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg"> -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 

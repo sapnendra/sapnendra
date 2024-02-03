@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithm, MERN stack.**
 
-- 👯 I’m looking to collaborate on [Open source](https://github.com/sapnendra)
-
-- 🤝 I’m looking for help with [Your on going project](https://github.com/sapnendra/facebook-login-page)
+- 👯 I’m looking to collaborate on [Open source](https://sapnendra.github.io/resume)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sapnendra](https://github.com/sapnendra)
 

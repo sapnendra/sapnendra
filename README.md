@@ -1,18 +1,18 @@
 # Sapnendra Jaiswal
 
-Full-Stack Engineer | SaaS Systems Builder | Next.js & TypeScript
+Full-Stack Developer | SaaS Systems Builder | Next.js & TypeScript Developer
 
 Bhopal, India  
 Email: sapnendrajaiswal2388@gmail.com  
 LinkedIn: https://linkedin.com/in/sapnendra  
+GitHub: https://github.com/sapnendra
 Portfolio: https://sapnendra.tech  
-GitHub: https://github.com/sapnendra  
 
 ---
 
 ## About
 
-Full-stack engineer focused on building scalable, secure, and performance-optimized web applications.
+Full-stack developer focused on building scalable, secure, and performance-optimized web applications.
 
 Experienced in designing production-grade backend systems, authentication flows, background job processing, and analytics dashboards. Strong emphasis on clean architecture, maintainable code, and measurable performance improvements.
 
@@ -70,8 +70,7 @@ A scalable SaaS platform that analyzes developer profiles and generates structur
 **Tech Stack:**  
 Next.js, TypeScript, Express.js, MongoDB, Redis
 
-**Architecture Documentation:**  
-Add your diagram link here (example):  
+**Architecture Documentation:**    
 https://github.com/sapnendra/profile-analyzer/blob/main/docs/architecture.png
 
 ---
@@ -99,7 +98,6 @@ Production-grade e-commerce platform with secure authentication and payment inte
 Next.js, TypeScript, Express.js, MongoDB, Redis
 
 **Architecture Documentation:**  
-Add your diagram link here (example):  
 https://github.com/sapnendra/taanki-shop/blob/main/docs/system-design.png
 
 ---
@@ -109,14 +107,6 @@ https://github.com/sapnendra/taanki-shop/blob/main/docs/system-design.png
 - Winner — Website Battle Competition  
 - Participant — Smart India Hackathon  
 - Top 50 Rank — College Coding Hackathon (500+ participants)
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapnendra&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sapnendra&layout=compact&theme=default)
 
 ---
 

@@ -5,7 +5,6 @@ Full-Stack Developer | SaaS Systems Builder | Next.js & TypeScript Developer
 Bhopal, India  
 Email: sapnendrajaiswal2388@gmail.com  
 LinkedIn: https://linkedin.com/in/sapnendra  
-GitHub: https://github.com/sapnendra
 Portfolio: https://sapnendra.tech  
 
 ---

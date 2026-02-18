@@ -33,19 +33,19 @@
 
 ### Backend Systems
 
-<img src="https://img.shields.io/badge/Node.js%20%26%20Express-85%25-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img  align="center" src="https://img.shields.io/badge/Node.js%20%26%20Express-85%25-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 ### Frontend Architecture
 
-<img src="https://img.shields.io/badge/Next.js%20%26%20React-90%25-00ffff?style=for-the-badge&logo=react&logoColor=white" />
+<img  align="center" src="https://img.shields.io/badge/Next.js%20%26%20React-90%25-00ffff?style=for-the-badge&logo=react&logoColor=white" />
 
 ### Database Optimization
 
-<img src="https://img.shields.io/badge/MongoDB%20%26%20Redis-80%25-00ffff?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img  align="center" src="https://img.shields.io/badge/MongoDB%20%26%20Redis-80%25-00ffff?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ### Authentication & Security
 
-<img src="https://img.shields.io/badge/JWT%20%26%20OAuth2-85%25-00ffff?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img  align="center" src="https://img.shields.io/badge/JWT%20%26%20OAuth2-85%25-00ffff?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 </p>
 

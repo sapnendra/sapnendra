@@ -52,16 +52,20 @@
 <p align="center">
 
 ### Backend Systems
-<img src="https://progress-bar.dev/85/?title=Node.js%20%26%20Express&color=00ffff" />
+
+<img src="https://img.shields.io/badge/Node.js%20%26%20Express-85%25-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 ### Frontend Architecture
-<img src="https://progress-bar.dev/90/?title=Next.js%20%26%20React&color=00ffff" />
+
+<img src="https://img.shields.io/badge/Next.js%20%26%20React-90%25-00ffff?style=for-the-badge&logo=react&logoColor=white" />
 
 ### Database Optimization
-<img src="https://progress-bar.dev/80/?title=MongoDB%20%26%20Redis&color=00ffff" />
+
+<img src="https://img.shields.io/badge/MongoDB%20%26%20Redis-80%25-00ffff?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ### Authentication & Security
-<img src="https://progress-bar.dev/85/?title=JWT%20%26%20OAuth2&color=00ffff" />
+
+<img src="https://img.shields.io/badge/JWT%20%26%20OAuth2-85%25-00ffff?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 </p>
 
@@ -70,24 +74,24 @@
 ## Highlight Projects
 
 <details>
-<summary><b>Profile Analyzer — AI SaaS</b></summary>
+<summary><b>Profile Analyzer — AI SaaS Product  </b></summary>
 
-- OAuth 2.0 integrations (GitHub, LinkedIn, LeetCode)  
-- Redis caching reduced API load by ~40%  
-- BullMQ background processing  
-- Indexed MongoDB queries achieving millisecond responses  
-- Secure JWT refresh token architecture  
+- OAuth 2.0 integrations (GitHub, LinkedIn, LeetCode)
+- Redis caching reduced API load by ~40%
+- BullMQ background processing
+- Indexed MongoDB queries achieving millisecond responses
+- Secure JWT refresh token architecture
 
 </details>
 
 <details>
 <summary><b>Taanki.Shop — Full-Stack E-Commerce</b></summary>
 
-- JWT HTTP-only authentication  
-- Razorpay payment integration  
-- Real-time admin analytics dashboard  
-- Optimized queries reduced response time by ~30%  
-- Injection prevention + rate limiting  
+- JWT HTTP-only authentication
+- Razorpay payment integration
+- Real-time admin analytics dashboard
+- Optimized queries reduced response time by ~30%
+- Injection prevention + rate limiting
 
 </details>
 
@@ -101,3 +105,4 @@ Backend Performance Optimization
 Secure Authentication Systems
 Production-Grade API Design
 Clean Maintainable Code
+```

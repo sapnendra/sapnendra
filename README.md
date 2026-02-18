@@ -1,126 +1,103 @@
-# Sapnendra Jaiswal
-
-Full-Stack Developer | SaaS Systems Builder | Next.js & TypeScript Developer
-
-Bhopal, India  
-Email: sapnendrajaiswal2388@gmail.com  
-LinkedIn: https://linkedin.com/in/sapnendra  
-Portfolio: https://sapnendra.tech  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Sapnendra+Jaiswal;Full-Stack+Developer;Next.js+%7C+TypeScript+Engineer;Building+Scalable+SaaS+Systems" />
+</p>
 
 ---
 
-## About
-
-Full-stack developer focused on building scalable, secure, and performance-optimized web applications.
-
-Experienced in designing production-grade backend systems, authentication flows, background job processing, and analytics dashboards. Strong emphasis on clean architecture, maintainable code, and measurable performance improvements.
-
-Currently deepening expertise in system design and cloud-native deployment workflows.
-
----
-
-## Core Stack
-
-**Frontend**  
-Next.js, React, TypeScript, Tailwind CSS  
-
-**Backend**  
-Node.js, Express.js, MongoDB, Redis  
-
-**Infrastructure & Security**  
-JWT (Access + Refresh), OAuth 2.0, BullMQ, API Rate Limiting, Helmet.js  
+<p align="center">
+  <a href="https://linkedin.com/in/sapnendra">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" />
+  </a>
+  <a href="https://sapnendra.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" />
+  </a>
+  <a href="mailto:sapnendrajaiswal2388@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" />
+  </a>
+</p>
 
 ---
 
-## Experience
+## Tech Stack
 
-### Web Developer Intern  
-Sheryians Pvt. Ltd. | Dec 2025 – Present  
-
-- Built responsive UI systems using React and Tailwind CSS  
-- Implemented animation pipelines using GSAP and Framer Motion  
-- Improved page rendering performance by ~25% through component optimization and lazy loading  
-- Contributed to structured codebase improvements and modular UI architecture  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,redis,tailwind,git&theme=dark" />
+</p>
 
 ---
 
-## Selected Projects
+## Live GitHub Analytics
 
-### Profile Analyzer — AI-Powered Developer Analytics SaaS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sapnendra&show_icons=true&theme=transparent&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sapnendra&theme=transparent&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&border=00ffff" width="48%" />
+</p>
 
-A scalable SaaS platform that analyzes developer profiles and generates structured technical insights.
-
-**Engineering Highlights:**
-
-- Implemented OAuth 2.0 integrations (GitHub, LinkedIn, LeetCode)
-- Designed JWT authentication with refresh token rotation
-- Reduced repeated API calls by ~40% using Redis caching
-- Built background job queue with BullMQ for async processing
-- Developed dynamic analytics dashboards using Recharts
-- Designed normalized MongoDB schema across multiple collections
-- Secured APIs with rate limiting and HTTP header protection
-
-**System Impact:**
-
-- Handles concurrent background processing jobs reliably  
-- Achieved millisecond-level database query response after indexing  
-- Optimized data-fetch pipelines for consistent performance  
-
-**Tech Stack:**  
-Next.js, TypeScript, Express.js, MongoDB, Redis
-
-**Architecture Documentation:**    
-https://github.com/sapnendra/profile-analyzer/blob/main/docs/architecture.png
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnendra&layout=compact&theme=transparent&title_color=00ffff&text_color=ffffff&border_color=00ffff" width="48%" />
+</p>
 
 ---
 
-### Taanki.Shop — Full-Stack E-Commerce Platform
+## Contribution Snake
 
-Production-grade e-commerce platform with secure authentication and payment integration.
-
-**Engineering Highlights:**
-
-- Implemented secure JWT authentication using HTTP-only cookies
-- Integrated Razorpay payment gateway
-- Designed admin dashboard with real-time revenue analytics
-- Built asynchronous email processing using BullMQ + Redis
-- Optimized MongoDB queries with indexing, reducing response time by ~30%
-- Implemented bcrypt hashing, API rate limiting, and injection prevention
-
-**System Capabilities:**
-
-- Supports variant-based inventory management  
-- Real-time order and stock updates  
-- Scalable backend structure for future expansion  
-
-**Tech Stack:**  
-Next.js, TypeScript, Express.js, MongoDB, Redis
-
-**Architecture Documentation:**  
-https://github.com/sapnendra/taanki-shop/blob/main/docs/system-design.png
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sapnendra/sapnendra/output/snake.svg" />
+</p>
 
 ---
 
-## Achievements
+## Skill Intensity
 
-- Winner — Website Battle Competition  
-- Participant — Smart India Hackathon  
-- Top 50 Rank — College Coding Hackathon (500+ participants)
+<p align="center">
+
+### Backend Systems
+<img src="https://progress-bar.dev/85/?title=Node.js%20%26%20Express&color=00ffff" />
+
+### Frontend Architecture
+<img src="https://progress-bar.dev/90/?title=Next.js%20%26%20React&color=00ffff" />
+
+### Database Optimization
+<img src="https://progress-bar.dev/80/?title=MongoDB%20%26%20Redis&color=00ffff" />
+
+### Authentication & Security
+<img src="https://progress-bar.dev/85/?title=JWT%20%26%20OAuth2&color=00ffff" />
+
+</p>
+
+---
+
+## Highlight Projects
+
+<details>
+<summary><b>Profile Analyzer — AI SaaS</b></summary>
+
+- OAuth 2.0 integrations (GitHub, LinkedIn, LeetCode)  
+- Redis caching reduced API load by ~40%  
+- BullMQ background processing  
+- Indexed MongoDB queries achieving millisecond responses  
+- Secure JWT refresh token architecture  
+
+</details>
+
+<details>
+<summary><b>Taanki.Shop — Full-Stack E-Commerce</b></summary>
+
+- JWT HTTP-only authentication  
+- Razorpay payment integration  
+- Real-time admin analytics dashboard  
+- Optimized queries reduced response time by ~30%  
+- Injection prevention + rate limiting  
+
+</details>
 
 ---
 
 ## Engineering Focus
 
-- Scalable SaaS architecture  
-- Backend performance optimization  
-- Secure authentication systems  
-- Clean, maintainable system design  
-
----
-
-## Open To
-
-Backend-focused roles  
-Full-stack product engineering roles  
-SaaS development opportunities  
-Freelance system architecture projects  
+```text
+Scalable SaaS Architecture
+Backend Performance Optimization
+Secure Authentication Systems
+Production-Grade API Design
+Clean Maintainable Code

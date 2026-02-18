@@ -18,27 +18,6 @@
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,redis,tailwind,git,docker,aws&theme=dark" />
-</p>
-
----
-
-## Live GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sapnendra&show_icons=true&theme=transparent&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sapnendra&theme=transparent&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&border=00ffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnendra&layout=compact&theme=transparent&title_color=00ffff&text_color=ffffff&border_color=00ffff" width="48%" />
-</p>
-
----
-
 ## Skill Intensity
 
 <p align="center">

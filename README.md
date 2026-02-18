@@ -21,7 +21,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,redis,tailwind,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,redis,tailwind,git,docker,aws&theme=dark" />
 </p>
 
 ---
@@ -35,14 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnendra&layout=compact&theme=transparent&title_color=00ffff&text_color=ffffff&border_color=00ffff" width="48%" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sapnendra/sapnendra/output/snake.svg" />
 </p>
 
 ---

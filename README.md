@@ -18,6 +18,15 @@
 
 ---
 
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,redis,tailwind,git,docker,aws&theme=dark" />
+</p>
+
+---
+
 ## Skill Intensity
 
 <p align="center">
